@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println(" Hello rocky king android ! ")
+        suprise mother fucker!
     }
 }
