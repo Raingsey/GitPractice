@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         println(" Hello rocky king android ! ")
         println(" Fucking Local bug change!!!!")
-        println("CHANGE 1")
+        println("CHANGE 2")
     }
 }
