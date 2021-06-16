@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println(" Hello rocky king android ! ")
+        println(" Fucking Local bug change!!!!")
+        println("Experienmental brach !")
     }
 }
