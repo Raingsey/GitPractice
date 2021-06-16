@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         println(" Hello rocky king android ! ")
         println(" Fucking Local bug change!!!!")
         println("CHANGE 2")
+        println("HEllo from my friend222!")
     }
 }
